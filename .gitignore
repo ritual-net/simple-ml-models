@@ -1,0 +1,6 @@
+iris_classification/iris.onnx
+iris_classification/iris.torch
+
+**/__pycache__
+
+.idea
