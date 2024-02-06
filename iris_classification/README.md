@@ -2,6 +2,10 @@
 This repo contains the code for a simple iris classification model. The code for 
 training the model is written following [this tutorial](https://janakiev.com/blog/pytorch-iris/).
 
+## Generated Models 
+The generated models for this repo are on huggingface's hub: 
+[`Ritual-Net/iris-dataset`](https://huggingface.co/Ritual-Net/iris-dataset/tree/main).
+
 ### Installation
 ```bash
 pip install -r requirements.txt
